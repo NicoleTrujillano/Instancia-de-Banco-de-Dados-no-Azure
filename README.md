@@ -4,7 +4,7 @@ Este repositório foi criado como parte do desafio proposto pela DIO para demons
 
 ## Conteúdo Aprendido
 
-### 🔧 Tipos de Serviço de Nuvem
+### Tipos de Serviço de Nuvem
 
 Durante as aulas, foram abordados três principais modelos de serviço em nuvem:
 
@@ -19,7 +19,7 @@ Durante as aulas, foram abordados três principais modelos de serviço em nuvem:
 
 ---
 
-## 🔐 Modelo de Responsabilidade Compartilhada
+## Modelo de Responsabilidade Compartilhada
 
 Baseado na documentação oficial da Microsoft, a responsabilidade entre cliente e provedor varia conforme o tipo de serviço:
 
@@ -38,7 +38,7 @@ Baseado na documentação oficial da Microsoft, a responsabilidade entre cliente
 
 ---
 
-## ☁️ Configuração da Instância SQL no Azure
+## Configuração da Instância SQL no Azure
 
 ### Etapas Realizadas
 
