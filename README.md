@@ -70,3 +70,7 @@ Baseado na documentação oficial da Microsoft, a responsabilidade entre cliente
    - Conectar via string de conexão usando login/senha definidos
 
 ---
+
+## Como Utilizar
+
+Este repositório serve como base para criar, configurar e documentar uma instância de Banco de Dados SQL na nuvem Azure, usando boas práticas técnicas e de segurança.
